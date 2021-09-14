@@ -1,0 +1,41 @@
+body{  
+   background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK269KUuRToMhKWNNb2REV9c2jzKMaw9LXvQ&usqp=CAU); 
+    background-size:cover; 
+    background-position:center; 
+    font-family:sans-serif; 
+   } 
+.container {
+    text-align: center;
+    margin-top: 120px;
+    margin-right: 50px;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    font-size: 32.5px;
+    height: 45px;
+    border: solid 3.5px #808080;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+button {
+    font-size: 35px;
+    background: whitesmoke;
+    width: 91.4px;
+    height: 60px;
+    border-radius: 20px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.calculator {
+    display: inline-block;
+    background: #000000;
+    padding: 20px;
+    border-radius: 15px;
+    border: solid #808080 3px;
+}
